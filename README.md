@@ -1,4 +1,4 @@
-# Мой путь по Born 2beRoot
+# Мой путь по Born2beRoot
 
 1. [Установка дебиана](https://youtu.be/13YBlD0SOJo)
 
